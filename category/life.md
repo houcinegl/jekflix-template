@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Life
+title: Lifeee
 slug: life
 description: A category for life related posts.
 ---
