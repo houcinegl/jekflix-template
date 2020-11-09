@@ -18,5 +18,7 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
+  - title: News
+    url: /news.xml
 email: youremail@test.com
 disqus_username: disqus_username
