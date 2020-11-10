@@ -1,6 +1,6 @@
 ---
 layout: category
 title: TECH
-slug: css
-description: A category for CSS related posts.
+slug: tech
+description: A category for TECH related posts.
 ---
