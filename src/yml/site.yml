@@ -16,8 +16,6 @@ menu:
     url: /about
   - title: Contact
     url: /contact
-  - title: Feed
-    url: /feed.xml
   - title: News
     url: /news.xml
 email: youremail@test.com
