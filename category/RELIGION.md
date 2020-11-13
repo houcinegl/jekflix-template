@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Lifeee
+title: FOOD
 slug: "{{slug}}"
 description: wxgbnggdfsdsdf
 ---
