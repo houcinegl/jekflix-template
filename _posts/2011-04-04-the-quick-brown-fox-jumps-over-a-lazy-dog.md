@@ -1,7 +1,7 @@
 ---
 date: 2020-11-09 10:11:09
 layout: post
-title: The black wolf jumps over a lazy dog
+title: The white dog jumps over a lazy dog
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
   eiusmod tempor incididunt ut labore et dolore magna aliqua.
