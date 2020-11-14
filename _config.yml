@@ -17,8 +17,10 @@ menu:
     url: /about
   - title: Contact
     url: /contact
-  - title: Feed
-    url: /feed.xml
+  - title: News
+    url: /news
+  - title: coockies
+    url: /coockies
 email: youremail@test.com
 disqus_username: disqus_username
 
