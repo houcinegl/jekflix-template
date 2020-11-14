@@ -1,9 +1,9 @@
 ---
+title: About
+date: 2020-11-13 13:36:52 Z
+permalink: "/about/"
 layout: page
 menu: true
-date: 2020-11-13 13:36:52
-title: About
-permalink: /about/
 description: Some description.
 ---
 

@@ -1,5 +1,6 @@
 ---
-layout: category
 title: SPORT
+layout: category
 slug: "{{slug}}"
 ---
+

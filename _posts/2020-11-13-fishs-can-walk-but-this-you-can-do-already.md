@@ -1,18 +1,20 @@
 ---
-date: 2020-11-13 18:05:27
-layout: post
 title: Fishs can walk, but this you can do already
+date: 2020-11-13 18:05:27 Z
+categories:
+- "{{slug}}"
+tags:
+- LOVE
+layout: post
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-  eiusmod tempor incididunt ut labore et dolore magna aliqua.
+description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+  tempor incididunt ut labore et dolore magna aliqua.
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559825145/theme16_o0seet.jpg
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559825145/theme16_o0seet.jpg
-category: "{{slug}}"
-tags:
-  - LOVE
 author: cocktail
 paginate: true
 ---
+
 sdjkbzdjkbkbjndklnlmw, mlq qvnmqvlmqv vqnmqvlm
 
 > Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
